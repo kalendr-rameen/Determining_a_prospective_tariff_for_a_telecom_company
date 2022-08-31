@@ -27,6 +27,7 @@ Tariffs description
 ```
 
 Data description
+
   Table users (information about users):
     user_id - unique user ID
     first_name - user name
